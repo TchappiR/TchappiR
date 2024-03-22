@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 LANGUAGES AND TOOLS:
-[<img align="left" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:11px;" />]
+[<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:11px;" />]
 
 <!-- METTRE MES OUTILS ICI -->
 
