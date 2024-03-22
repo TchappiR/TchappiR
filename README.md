@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 
 
 LANGUAGES AND TOOLS:
-[<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:11px;" />]
+<img alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-originalsvg"style="padding-right:11px">
+<img alt="Pandas" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-originalsvg"style="padding-right:11px">
+<img alt="Matplotlib" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlibmatplotlib-originalsvg"style="padding-right:11px">
+<img alt="Scikit-learn" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"style="padding-right:11px">
+
+
 
 <!-- METTRE MES OUTILS ICI -->
 
