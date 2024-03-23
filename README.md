@@ -1,12 +1,11 @@
-## Hello,
-## I'm TCHAPPI Romaric
+## Hello, I'm TCHAPPI Romaric
 I'm passionate about data science and Machine Learning<br>
 
 ## About me
 - 🔭 I’m currently a Master student at HETIC
 - 🌱 I’m currently learning **data scicence and Artificial Intelligence**
 
-### LANGUAGES AND TOOLS:
+## LANGUAGES AND TOOLS:
 ```mermaid
 graph TD;
     Data_recovery-->Treatment;
