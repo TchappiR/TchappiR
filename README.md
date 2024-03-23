@@ -20,5 +20,5 @@ graph TD;
 <!-- <code><img height="20" alt="Seaborn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"></code> -->
 #### Machine Learning : <code><img height="20" alt="Scikit-Learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"></code> 
 
-### GitHub Statistics : 
+## GitHub Statistics  
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=TchappiR&show_icons=true&theme=dark#gh-dark-mode-only)
