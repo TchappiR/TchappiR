@@ -9,11 +9,11 @@ I'm passionate about data science and Machine Learning<br>
 - 🌱 I’m currently learning **data scicence and Artificial Intelligence**
 
 ### LANGUAGES AND TOOLS:
-``` mermaid
+```mermaid
 graph TD;
-    Data recovery --> Treatment;
-    Treatment --> Visualisation;
-    Treatment --> Machine Learning;
+    Data_recovery-->Treatment;
+    Treatment-->Visualisation;
+    Treatment-->Machine_Learning;
 ```
 ```mermaid
 graph TD;
